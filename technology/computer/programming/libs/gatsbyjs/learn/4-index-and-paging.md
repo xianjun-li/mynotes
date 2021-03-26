@@ -8,7 +8,7 @@ description: ""
 categories:
 - "technology/computer/programming/lib/gatsbyjs"
 series:
-- "gatsbyjs""
+- "gatsbyjs"
 ---
 
 参考 <https://github.com/NickyMeuleman/gatsby-paginated-blog>
