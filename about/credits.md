@@ -13,3 +13,9 @@ description: "open source projects and resource that have been used"
 | :------------------ | :----------------------------------------------------- | :------------------------ |
 | fontawesome         | https://fontawesome.com/license                        | https://fontawesome.com/  |
 | Gatsby              | https://github.com/gatsbyjs/gatsby/blob/master/LICENSE | https://www.gatsbyjs.com/ |
+| dotenv              |                                                        |                           |
+| log4js              |                                                        |                           |
+| mobx                |                                                        |                           |
+| ramda               |                                                        |                           |
+| prismjs             |                                                        |                           |
+| prettier            |                                                        |                           |
