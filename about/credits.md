@@ -4,6 +4,9 @@ title: Credits
 date: "2021-03-08"
 draft: false
 
+categories:
+  - "about"
+
 description: "open source projects and resource that have been used"
 ---
 
